@@ -1,0 +1,5 @@
+price:
+  url:
+    binance: https://api.binance.com/api/v3/ticker/bookTicker
+    houbi:  https://api.huobi.pro/market/tickers
+  update_interval: 10000
